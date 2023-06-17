@@ -1,4 +1,4 @@
-##  reNEW Organize Naming Structure
+**  reNEW Organize Naming Structure **
 
 #  reNEW_Group/
 ##  ├── Genomics_GNM/
