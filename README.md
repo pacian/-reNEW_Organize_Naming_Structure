@@ -37,3 +37,22 @@
 ###    ├── Protocols_PTCL_FC_YYYYMMDD/
 ###    ├── Tools_TLC_FC_YYYYMMDD/
 ###    └── Resources_RSC_FC_YYYYMMDD/
+
+##  Here's a quick breakdown of the abbreviations:
+
+### GNM: Genomics
+### BIO: Bioinformatics
+### MIC: Microscopy
+### TC: Tissue Culture
+### FC: Flow Cytometry
+### RD: Raw Data
+### PD: Processed Data
+### RPT: Reports
+### PTCL: Protocols
+### TLC: Tools
+### RSC: Resources
+### BIC: Bioinformatics Code
+
+### In the example above, "ProjectName" should be replaced with a short, descriptive name for the project, and "YYYYMMDD" should be replaced with the date in that format. "v1" denotes the version of the file or folder, which is important for tracking changes over time. 
+
+### The naming conventions should be adjusted according to the specific needs and practices of the reNEW Research Groups.
