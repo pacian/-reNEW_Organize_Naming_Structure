@@ -56,3 +56,9 @@
 ### In the example above, "ProjectName" should be replaced with a short, descriptive name for the project, and "YYYYMMDD" should be replaced with the date in that format. "v1" denotes the version of the file or folder, which is important for tracking changes over time. 
 
 ### The naming conventions should be adjusted according to the specific needs and practices of the reNEW Research Groups.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Richard Dennis has waived all copyright and related or neighboring rights to this work.
