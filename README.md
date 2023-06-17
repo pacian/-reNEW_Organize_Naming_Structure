@@ -1,5 +1,5 @@
-# **  reNEW Organize Naming Structure **
-
+ # reNEW Organize Naming Structure
+ 
 #  reNEW_Group/
 ##  ├── Genomics_GNM/
 ### │   ├── Raw_Data_RD_GNM_ProjectName_YYYYMMDD_v1/
